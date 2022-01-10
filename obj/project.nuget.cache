@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTZvFfA3s+Cl/+BRvaJEUvJ1z1WkuNgNnum98Zee35CdbVrGGIzLSQHjzyc09odpfZ9oGyY9+3tpwBaGwvFuPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corne\\Desktop\\New folder (2)\\movie\\movie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

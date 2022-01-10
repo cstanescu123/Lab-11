@@ -1,0 +1,16 @@
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.csproj.AssemblyReference.cache
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.AssemblyInfoInputs.cache
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.AssemblyInfo.cs
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.csproj.CoreCompileInputs.cache
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.exe
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.deps.json
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.runtimeconfig.json
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.runtimeconfig.dev.json
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.dll
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\ref\movie.dll
+C:\Users\corne\Desktop\New folder (2)\movie\bin\Debug\net5.0\movie.pdb
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.dll
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\ref\movie.dll
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.pdb
+C:\Users\corne\Desktop\New folder (2)\movie\obj\Debug\net5.0\movie.genruntimeconfig.cache
